@@ -1,0 +1,9 @@
+.image-slider-container {
+    max-width: 800px;
+    margin: auto;
+  }
+  
+  .slick-slide img {
+    width: 100%;
+    height: auto;
+  }
